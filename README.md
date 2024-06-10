@@ -1,1 +1,1 @@
-# StudentManagementSystem uing Core java,hibernate,SpringBoot,Mysql
+# StudentManagementSystem using Core java,hibernate,SpringBoot,Mysql
